@@ -1,4 +1,4 @@
 ## Link 
 
-simple pagination using recoil root: [Live Demo](https://password-generator-goel.netlify.app/)
+password generator app using react: [Live Demo](https://password-generator-goel.netlify.app/)
 
